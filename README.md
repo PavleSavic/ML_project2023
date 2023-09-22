@@ -34,5 +34,7 @@ pip:
 
 
 Korišćena literatura:
+<br />https://www.analyticsvidhya.com/blog/2021/11/an-introduction-to-stemming-in-natural-language-processing/
+<br />https://www.datacamp.com/tutorial/stemming-lemmatization-python
 <br />https://medium.com/@Mirza_Yusuf/using-a-bert-model-for-sentiment-analysis-6c6fcc106843 
 <br />https://www.geeksforgeeks.org/sentiment-classification-using-bert/
