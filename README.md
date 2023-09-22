@@ -13,17 +13,25 @@ Sveska [02](https://github.com/PavleSavic/ML_project2023/blob/main/02_Vektorizac
 
 U svesci [03](https://github.com/PavleSavic/ML_project2023/blob/main/03_Transformer.ipynb) implementiran je **BERT transformer**.
 
+U svesci [04](https://github.com/PavleSavic/ML_project2023/blob/main/04_demo_simple_gui.ipynb) implementirana je jednostavna **GUI aplikacija** u svrhu demonstracije.
 
 <img width="1013" alt="transformers" src="https://github.com/PavleSavic/ML_project2023/assets/64799270/4e9d74fc-e087-4f74-85ae-eb5c6345dfa4">
 
 
-Korišćene biblioteke: numpy, pandas, matplotlib, nltk, wordcloud, sklearn, tensorflow, keras, transformers <br />
+Korišćene biblioteke: numpy, pandas, matplotlib, nltk, wordcloud, sklearn, tensorflow, keras, transformers, tkinter (za GUI) <br />
 
 Instalacija transformers biblioteke: <br />
 anaconda:
 **conda install -c conda-forge transformers** <br />
 pip:
 **pip install transformers**
+
+Instalacija tkinter biblioteke: <br />
+anaconda:
+**conda install -c anaconda tk** <br />
+pip:
+**pip install tk**
+
 
 Korišćena literatura:
 <br />https://medium.com/@Mirza_Yusuf/using-a-bert-model-for-sentiment-analysis-6c6fcc106843 
